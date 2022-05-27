@@ -42,11 +42,11 @@
     "src-nimmikudance-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650725954,
-        "narHash": "sha256-gfSbs0QSaHIFU7yqfvKO6fCFkdoZuYQSvyRfGVLuwQs=",
+        "lastModified": 1653291614,
+        "narHash": "sha256-WMu8Fbk95xI5TotZIxc26hMiEtZUWzpJHJsFWw/IExQ=",
         "owner": "aphkyle",
         "repo": "NimMikuDance",
-        "rev": "cfa4c08b3a52cc8f6903d98c72cb23b4212514a1",
+        "rev": "52772ae5dce004ab6ac1829ab8ad403a379375e1",
         "type": "github"
       },
       "original": {
