@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1652797378,
-        "narHash": "sha256-oNz4NdyN7m972dVz2rm2UcCAhkSQWLJs0mzrVCLWGBg=",
+        "lastModified": 1653689973,
+        "narHash": "sha256-SWj1C+exjlKghsBb6T0DfS+EZGgu4Oq9FmBeOAyjauY=",
         "owner": "nim-nix-pkgs",
         "repo": "nimmikudance",
-        "rev": "b31d71cf411250722b5f978e247d252919526986",
+        "rev": "896938a80a935aaeb955f43357bceaf9e06c714f",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
     "src-nimmikudance-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650725954,
-        "narHash": "sha256-gfSbs0QSaHIFU7yqfvKO6fCFkdoZuYQSvyRfGVLuwQs=",
+        "lastModified": 1653291614,
+        "narHash": "sha256-WMu8Fbk95xI5TotZIxc26hMiEtZUWzpJHJsFWw/IExQ=",
         "owner": "aphkyle",
         "repo": "NimMikuDance",
-        "rev": "cfa4c08b3a52cc8f6903d98c72cb23b4212514a1",
+        "rev": "52772ae5dce004ab6ac1829ab8ad403a379375e1",
         "type": "github"
       },
       "original": {
